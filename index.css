@@ -1,0 +1,95 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p.Home {
+  font-family: Helvetica;
+  font-size: 16px;
+  margin-left: 25%;
+}
+
+p.About {
+  font-family: Helvetica;
+  font-size: 16px;
+  margin-left: 35%;
+  margin-top: -34.8px;
+}
+
+p.Support {
+  font-family: Helvetica;
+  font-size: 16px;
+  margin-left: 45%;
+  margin-top: -35.3px;
+}
+
+p.More {
+  font-family: Helvetica;
+  font-size: 16px;
+  margin-left: 55%;
+  margin-top: -35.4px;
+}
+
+p.Account {
+  font-family: Helvetica;
+  font-size: 16px;
+  margin-left: 65%;
+  margin-top: -35.5px;
+}
+
+p.Main {
+  font-family: 'Charlemagne Std';
+  font-size: 43px;
+  margin-left: 31.5%;
+  margin-top: 80px;
+}
+
+img.pc {
+  width: 30%;
+  margin-left: 31.5%;
+}
+
+main {
+  margin-bottom: 15px;
+  color: white;
+  width: 1694px;
+  height: 323px;
+  background-color: #ffffff;
+  background: linear-gradient(225deg, #6a00bb 24%, #a43bed 75%);
+}
+
+img.d {
+  width: 20%;
+  margin-bottom: 100px;
+  margin-top: -10px;
+  margin-left: 60%;
+}
+
+p.text {
+  margin-bottom: 15px;
+  top: 30%;
+  font-size: 140%;
+  margin-left: 130px;
+  position: absolute;
+  top:755px;
+}
+
+p.remember {
+  font-family: 'Charlemagne Std';
+  font-size: 43px;
+  margin-left: 35.1%;
+  margin-top: 60px;
+}
+
+p.best {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 28.5%;
+  font-size: 24px;
+}
+
+p.JeyKey {
+  font-size: 22px;
+  margin-top: 15%;
+} 
+
+/*# sourceMappingURL=index.css.map */
